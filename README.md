@@ -1,1 +1,0 @@
-# ahmadli-codex.github.io
