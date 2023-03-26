@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/ahmadli-codex.github.io/static/js/main.d93d7421.js",
+    "static/js/756.e0ea1959.chunk.js": "/ahmadli-codex.github.io/static/js/756.e0ea1959.chunk.js",
+    "static/js/787.d7eafd0a.chunk.js": "/ahmadli-codex.github.io/static/js/787.d7eafd0a.chunk.js",
+    "index.html": "/ahmadli-codex.github.io/index.html",
+    "main.d93d7421.js.map": "/ahmadli-codex.github.io/static/js/main.d93d7421.js.map",
+    "756.e0ea1959.chunk.js.map": "/ahmadli-codex.github.io/static/js/756.e0ea1959.chunk.js.map",
+    "787.d7eafd0a.chunk.js.map": "/ahmadli-codex.github.io/static/js/787.d7eafd0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d93d7421.js"
+  ]
+}
